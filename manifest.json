@@ -3,10 +3,10 @@
   "name": "Tab Manager for Chrome Dev Docs",
   "version": "1.0",
   "icons": {
-    "16": "clipboard-pixel-art-vector.png",
-    "32": "clipboard-pixel-art-vector.png",
-    "48": "clipboard-pixel-art-vector.png",
-    "128": "clipboard-pixel-art-vector.png"
+    "16": "s.png",
+    "32": "s.png",
+    "48": "s.png",
+    "128": "s.png"
   },
   "action": {
     "default_popup": "popup.html"

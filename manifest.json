@@ -3,9 +3,9 @@
   "name": "Tab Manager for Chrome Dev Docs",
   "version": "1.0",
   "icons": {
-    "16": "output-onlineimagetools (5).png",
-    "32": "output-onlineimagetools (4).png",
-    "48": "output-onlineimagetools (3).png",
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
     "128": "Safeimagekit-resized-img.png"
   },
   "action": {

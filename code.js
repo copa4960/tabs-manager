@@ -6,5 +6,5 @@ post.addEventListener("click", function(){
     var text = document.createTextNode(commentBoxValue);
     li.appendChild(text);
     document.getElementById("unordered").appendChild(li);
-    chrome.storage.local.set({'value': theValue});
+    chrome.storage.local.set({'key': text});
 });

@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./popup.css" />
   </head>
   <body>
+    document.querySelector("#but").addEventListener("click", init);
     <template id="li_template">
       <li>
         <a>
@@ -19,25 +20,25 @@
     <h1>Note</h1>
     
     
+    
      <!–– <script src="set.js"></script> ––>
    
+    
+    
     <input type="text" id="comment-box" placeholder="Enter comment">
     <button id="post">Post</button>
     <ul id="unordered">
-       
    </ul>
-
     <script src="code.js"></script>
     
-    <input type = "button" value = "Reset data" onClick = "fun()"/> 
+    
+    
+    <button id="but" type="button">Hit me</button><br/>
     <ul></ul>
-
     <script src="./popup.js" type="module"></script>
-    <script>  
- function fun(){  
-   document.getElementById("myForm").reset();  
- }   
-</script>  
+
+    
+    
   </body>
 </html>
 

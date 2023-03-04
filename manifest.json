@@ -3,10 +3,10 @@
   "name": "Tab Manager for Chrome Dev Docs",
   "version": "1.0",
   "icons": {
-    "16": "icon-16.png",
-    "32": "icon-32.png",
-    "48": "icon-48.png",
-    "128": "Safeimagekit-resized-img.png"
+    "16": "images/5.png",
+    "32": "images/4.png",
+    "48": "images/3.png",
+    "128": "images/Safeimagekit-resized-img.png"
   },
   "action": {
     "default_popup": "popup.html"

@@ -29,10 +29,15 @@
 
     <script src="code.js"></script>
     
-    
-    <button onClick="window.location.reload();">Refresh Page</button>
+    <input type = "button" value = "Reset data" onClick = "fun()"/> 
     <ul></ul>
 
     <script src="./popup.js" type="module"></script>
+    <script>  
+ function fun(){  
+   document.getElementById("myForm").reset();  
+ }   
+</script>  
   </body>
 </html>
+
